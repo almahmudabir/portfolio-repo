@@ -1,0 +1,29 @@
+body {
+  font-family: "Oswald", sans-serif;
+}
+h1 {
+  font-size: 60px;
+}
+.orange-color {
+  color: orangered;
+}
+section {
+  display: flex;
+}
+.half-width {
+  width: 100%;
+  padding-right: 10%;
+  padding-left: 5%;
+}
+.half-width img {
+  width: 100%;
+  padding-left: 10%;
+  padding-top: 10%;
+}
+.link-button {
+  background-color: royalblue;
+  padding: 10px 50px;
+  text-decoration-color: none;
+  border-radius: 8px;
+  color: rgb(238, 236, 229);
+}
